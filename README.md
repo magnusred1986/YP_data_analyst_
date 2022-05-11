@@ -5,3 +5,5 @@
 ![Практикум](https://user-images.githubusercontent.com/94078912/167956380-d97c0605-04c2-483a-a90c-49be65a7db56.svg)
 
 https://practicum.yandex.ru/
+
+![image](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)
