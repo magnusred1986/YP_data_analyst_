@@ -10,4 +10,3 @@ https://practicum.yandex.ru/profile/data-analyst/
 
 ![image](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)
 
-https://practicum.yandex.ru/profile/data-analyst/
