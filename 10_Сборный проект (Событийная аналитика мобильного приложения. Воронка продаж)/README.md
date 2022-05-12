@@ -14,4 +14,5 @@
 * pandas
 * matplotlib
 * numpy
-* datetime
+* plotly  
+* math
