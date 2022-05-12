@@ -1,4 +1,6 @@
 [![](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)](https://practicum.yandex.ru/profile/data-analyst/)  
+## Основыне инструменты:  
+***`Python`, `Jupyter Notebook`, `SQL`, `PostgreSQL`, `Tableau`, `А/В-тесты`***  
 ## Описание проектов: 
 **№** |**Описание проекта** |**Навыки и инструменты**
 :-----------:|----------|------------------------ 
