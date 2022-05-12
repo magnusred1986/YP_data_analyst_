@@ -10,9 +10,8 @@
 * pandas
 * matplotlib
 * numpy
-* seaborn
 * datetime
-* scipy
+
  
 
 
