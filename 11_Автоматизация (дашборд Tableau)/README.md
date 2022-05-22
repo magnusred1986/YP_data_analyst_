@@ -1,4 +1,6 @@
-# [Автоматизация](https://github.com/magnusred1986/YP_data_analyst_/blob/main/11_%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20(%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20Tableau)/11_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb)
+# [Автоматизация](https://github.com/magnusred1986/YP_data_analyst_/blob/main/11_%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20(%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20Tableau)/11_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb)  
+
+[доп.ссылка](https://nbviewer.org/github/magnusred1986/YP_data_analyst_/blob/main/11_%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%28%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20Tableau%29/11_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82.ipynb)  
 
 ## [Автоматизация (дашборд Tableau)](https://public.tableau.com/app/profile/sergey.krutiko/viz/Book1_16502897868380/sheet12?publish=yes)   
 Автоматизация процессов анализа данных. Потоковые аналитические решения. Регистрация событий в логах, создание регулярных отчетов. Дашборды. Мониторинг. Проект. Собрать систему метрик для мониторинга продуктовой эффективности сервиса доставки еды и настроить для них аналитический дашборд с несколькими источниками данных.  
