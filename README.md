@@ -1,6 +1,6 @@
 [![](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)](https://practicum.yandex.ru/data-analyst/)  
 
-[![](https://github.com/magnusred1986/YP_data_analyst_/blob/main/sert.PNG)](https://github.com/magnusred1986/YP_data_analyst_/commit/a6d5c48b19dc5df5214f13d2e0ac65cdd22473fe) 
+[![](https://github.com/magnusred1986/YP_data_analyst_/blob/main/sert.PNG)](https://drive.google.com/file/d/1UX-i3batFfH3ttAOU9BdVKRWqXJhcuOk/view?usp=sharing) 
 
 
 ## Основыне инструменты:  
