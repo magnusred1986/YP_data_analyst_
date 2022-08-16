@@ -1,4 +1,5 @@
 [![](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)](https://practicum.yandex.ru/data-analyst/)  
+[![](https://user-images.githubusercontent.com/94078912/167956530-793583be-9d16-4230-9703-49b0a23031cd.png)]([https://practicum.yandex.ru/data-analyst/](https://drive.google.com/file/d/1UX-i3batFfH3ttAOU9BdVKRWqXJhcuOk/view?usp=sharing))
 ## Основыне инструменты:  
 ***`Python`, `Jupyter Notebook`, `SQL`, `PostgreSQL`, `Tableau`, `А/В-тесты`***  
 ### Библиотеки:  
